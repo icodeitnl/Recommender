@@ -1,2 +1,2 @@
 # Recommender
-Recomendation System
+Recomendation System for Films and Retail 
