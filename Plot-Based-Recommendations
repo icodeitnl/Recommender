@@ -9,8 +9,6 @@ print(movies.info())
 print(movies.sample(5))
 print(pd.isnull(movies))
 
-#Content-based filtering
-#Plot description based recommender
 mr=movies.drop(columns=['id','imdb_id','budget','revenue','cast','homepage','director','tagline','runtime',
 	'production_companies','release_date','release_year','budget_adj','revenue_adj'])
 print(movies.head(5)['overview'])
