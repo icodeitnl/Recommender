@@ -27,7 +27,7 @@ vmtrx = vectorizer.fit_transform(mr['overview'])
 print(vmtrx.shape)
 sg = sigmoid_kernel(vmtrx, vmtrx)
 indices = pd.Series(mr.index, index=mr['original_title']).drop_duplicates()
-print('indices')
+
 
 def recommendations (title, sg=sg):
     ind = indices[title]
