@@ -1,6 +1,7 @@
 
 import pandas as pd
 import plotly.graph_objs as go
+#term frequency–inverse document frequency
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import sigmoid_kernel
 
