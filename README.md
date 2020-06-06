@@ -1,8 +1,8 @@
 # Recomendation System for Films and Retail 
 
 # Content-Based
-1. Feature extraction - creates a profile of the user (describes the types of items the user likes).
-2. Calculates the items that may be recommended (tf–idf vectoriser  creates a vocabulary of the most frequently occurred words and returns the most relevant items as recommendation).
+* Feature extraction - creates a profile of the user (describes the types of items the user likes).
+* Calculates the items that may be recommended (tf–idf vectoriser  creates a vocabulary of the most frequently occurred words and returns the most relevant items as recommendation).
 
 # Popularity-Based 
 
