@@ -8,6 +8,12 @@
 
 Recommends the most popular items(top-rated item by the most number of users (trending list)).
 
+**Top 10 Most Voted**
+<img src="https://github.com/icodeitnl/Recommender/blob/master/TopMostVoted.jpg"/>
+
+**Top 10 weighted average**
+<img src="https://github.com/icodeitnl/Recommender/blob/master/TopWeightedAverage.jpg"/>
+
 # Collaborative filtering
 
 Recommends items based on users’ past behavior.
