@@ -20,7 +20,7 @@ Recommends the most popular items(top-rated item by the most number of users (tr
 
 **Top Retail Products**
 
-<img src="https://github.com/icodeitnl/Recommender/blob/master/TopInCategory.jpg"/>
+<img src="https://github.com/icodeitnl/Recommender/blob/master/TopProducts.jpg"/>
 
 # Collaborative filtering
 
