@@ -60,8 +60,8 @@ fig = go.Figure(
         'colorscale': 'turbid'},
         orientation='h'),
     layout= go.Layout(
-        xaxis={"title":'Movie Title'},
-        yaxis={"title":'Movie Score'},
+        xaxis={"title":'Movie Score'},
+        yaxis={"title":'Movie Title'},
         title='Top 10 weighted average')
     )
 fig.update_layout(
@@ -90,8 +90,8 @@ fig = go.Figure(
         'colorscale': 'earth'},
         orientation='h'),
     layout= go.Layout(
-        xaxis={"title":'Movie Title'},
-        yaxis={"title":'Movie Score'},
+        xaxis={"title":'Movie Score'},
+        yaxis={"title":'Movie Title'},
         title='Top 10 most voted')
     )
 fig.update_layout(
