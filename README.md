@@ -14,6 +14,14 @@ Recommends the most popular items(top-rated item by the most number of users (tr
 **Top 10 weighted average IMDB**
 <img src="https://github.com/icodeitnl/Recommender/blob/master/TopWeightedAverage.jpg"/>
 
+**Top In Category**
+
+<img src="https://github.com/icodeitnl/Recommender/blob/master/TopInCategory.jpg"/>
+
+**Top Retail Products**
+
+<img src="https://github.com/icodeitnl/Recommender/blob/master/TopInCategory.jpg"/>
+
 # Collaborative filtering
 
 Recommends items based on users’ past behavior.
